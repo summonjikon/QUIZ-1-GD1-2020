@@ -1,0 +1,57 @@
+{
+    "quizID": "Corona",
+    "quizMetaData":
+    {
+        "title": "Corona Virus Knowledge",
+        "imageURI": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+
+    },
+    "quizContent":
+    [ 
+        {   "question": "How long does the covid-19 survive outside the body??",
+            "answers": [{
+                    "answer": "A week in the air and on surfaces",
+                    "feedback": false
+                },
+                {
+                    "answer": "Several hours to days",
+                    "feedback": true
+                },
+                {
+                    "answer": "Up to two and a half weeks",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "What’s more important for preventing infection?",
+            "answers": [{
+                    "answer": "Frequent hand-washing",
+                    "feedback": true
+                },
+                {
+                    "answer": "Wearing a face mask",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "Who’s at highest risk of developing severe Covid-19 disease?",
+            "answers": [{
+                    "answer": "Children",
+                    "feedback": false
+                },
+                {
+                    "answer": "People over 60 years of age",
+                    "feedback": true
+                },
+                {
+                    "answer": "Pregnant women",
+                    "feedback": false
+                },
+                {
+                    "answer": "Those with existing medical conditions",
+                    "feedback": false
+                }
+            ]
+        }
+    ]
+}

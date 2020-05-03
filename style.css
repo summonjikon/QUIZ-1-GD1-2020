@@ -1,0 +1,80 @@
+@keyframes goodAnswerAnimation {
+    from {background-color: yellow;}
+    to {background-color: green;}
+}
+@keyframes wrongAnswerAnimation {
+    from {background-color: yellow;}
+    to {background-color: red;}
+}
+@keyframes newQuestion {
+  from {margin-left: 800px;}
+  to{margin-left:0px;}
+}
+body{
+  background-color: black;
+  font: 1em sans-serif;
+}
+.wrapper{
+  overflow: hidden;
+  width: 80%;
+  margin: auto;
+  border: 4px solid magenta;
+  background-color: black;
+}
+#myQuestion{
+  color: gray;
+}
+#myQuestion::first-letter{
+  color: magenta;
+}
+.questionBox{
+  padding: 20px;
+  width: 80%;
+  margin-left:0px;
+}
+.questionBox-new{
+  padding: 20px;
+  width: 80%;
+  margin-left:0px;
+  animation-name: newQuestion;
+  animation-duration: 4s;
+}
+.resultBox{
+  height: 80%;
+}
+.myAnswer{
+  width: 80%;
+  text-align: center;
+}
+.answer{
+  list-style-type: none;
+  padding: 10px;
+  background-color:white;
+  border:4px solid magenta;
+  border-radius: 12px;
+  margin: 15px;
+}
+.answer:hover{
+  background-color: yellow;
+  cursor: pointer;
+}
+.right {
+  padding: 10px;
+  color:white;
+  border:4px solid black;
+  border-radius: 12px;
+  margin: 5px;
+  background-color: green;
+  animation-name: goodAnswerAnimation;
+  animation-duration: 4s;
+}
+.wrong{
+  padding: 10px;
+  color:white;
+  border:4px solid black;
+  border-radius: 12px;
+  margin: 5px;
+  background-color: red;
+  animation-name: wrongAnswerAnimation;
+  animation-duration: 4s;
+}
