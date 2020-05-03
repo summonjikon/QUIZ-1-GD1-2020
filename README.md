@@ -20,6 +20,4 @@ De les presentatie: [https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUK
     * SetTimeout
 1.  Debuggen
 1.  Nieuwe functionaliteit toevoegen
-1.  GitHub werken met Markdown Codes
-
-[Opmaakcode voor GIT:  Cheatsheet Markdown GIT MD ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1.  GitHub werken met Markdown Codes [Opmaakcode voor GIT:  Cheatsheet Markdown GIT MD ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
