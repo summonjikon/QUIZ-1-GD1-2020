@@ -2,7 +2,7 @@
 
 ##Gamedevelopment 1e jaar
 
-Link naar de demo: [http://schw.hosts1.ma-cloud.nl/2020/quiz1/](http://schw.hosts1.ma-cloud.nl/2020/quiz1/)
+Link naar de demo: [http://schw.hosts1.ma-cloud.nl/2020/quiz1/](http://schw.hosts1.ma-cloud.nl/2020/quiz1/):
 
 ![alt text][link_naar_video]
 [link_naar_video]: http://schw.hosts1.ma-cloud.nl/2020/quiz1/images/1e_versie_quiz.gif "demo van de quiz"
