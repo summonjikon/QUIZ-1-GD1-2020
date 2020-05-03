@@ -11,4 +11,4 @@ Demo video:
 De les presentatie: [https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing](https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing)
 
 
-[Cheatsheet Markdown GIT MD ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Opmaakcode voor GIT:  Cheatsheet Markdown GIT MD ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
