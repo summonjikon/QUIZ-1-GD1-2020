@@ -1,6 +1,6 @@
 ###### QUIZ-1-GD1-2020
 
-##Gamedevelopment 1e jaar
+## Gamedevelopment 1e jaar
 
 Link naar de online versie: [http://schw.hosts1.ma-cloud.nl/2020/quiz1/](http://schw.hosts1.ma-cloud.nl/2020/quiz1/)
 
