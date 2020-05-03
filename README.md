@@ -10,5 +10,17 @@ Demo video:
 
 De les presentatie: [https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing](https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing)
 
+## Lesdoelen
+1. JSON introductie
+    * Wat is JSON korte introductie
+    * Van JSON gecodeerde string naar Object  `<JSON.parse()>`
+1.  AJAX
+    * Herhaling ajax
+    * Introductie PROMISE        `<new Promise()>` 
+1.  Gameloop    
+    * SetTimeout
+1.  Debuggen
+1.  Nieuwe functionaliteit toevoegen
+1.  GitHub werken met Markdown Codes
 
 [Opmaakcode voor GIT:  Cheatsheet Markdown GIT MD ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
