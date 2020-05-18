@@ -1,69 +1,69 @@
 {
-    "quizID": "Bla Bla Questions",
+    "quizID": "3MovieQuestions",
     "quizMetaData":
     {
-        "title": "Bla Bla Knowledge",
-        "imageURI": "https://sd.keepcalms.com/i-w600/keep-calm-and-dont-ask-stupid-questions.jpg"
+        "title": "Three Movie Questions",
+        "imageURI": "banner.png"
 
     },
     "quizContent":		
 		[
 			{
-				"question": "Wie ontwierp de Eiffeltoren?",
+				"question": "Who is the founder of Lucasfilm?",
 				"answers": [{
-						"answer": "Eiffel",
+						"answer": "Lucas Catmull",
+						"feedback": false
+					},
+					{
+						"answer": "Lucas Ray Smith",
+						"feedback": false
+					},
+					{
+						"answer": "George Lucas",
 						"feedback": true
 					},
 					{
-						"answer": "Berlage",
-						"feedback": false
-					},
-					{
-						"answer": "Edison",
-						"feedback": false
-					},
-					{
-						"answer": "James Watt",
+						"answer": "Micheal Lucas",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "In welke kleuren speelt blauw-wit?",
+				"question": "The famous line: 'Here's Johnny' comes from? ",
 				"answers": [{
-						"answer": "blauw en wit",
+						"answer": "The Shining",
 						"feedback": true
 					},
 					{
-						"answer": "groen en geel",
+						"answer": "Halloween",
 						"feedback": false
 					},
 					{
-						"answer": "rood en wit",
+						"answer": "Cabin in the Woods",
 						"feedback": false
 					},
 					{
-						"answer": "rood en blauw",
+						"answer": "Friday the 13th",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "Wat is de voornaam van Eddy Merckx?",
+				"question": "What is #1 rule of Zombieland?",
 				"answers": [{
-						"answer": "Jelle",
+						"answer": "The Double Tap",
 						"feedback": false
 					},
 					{
-						"answer": "Ed",
+						"answer": "Seatbelts",
 						"feedback": false
 					},
 					{
-						"answer": "Eddy",
+						"answer": "Cardio",
 						"feedback": true
 					},
 					{
-						"answer": "Gerrit",
+						"answer": "Beware of Bathrooms",
 						"feedback": false
 					}
 				]

@@ -5,7 +5,8 @@ const quizWrapper = document.getElementById('quizWrapper');
 const questionBox = document.getElementById('questionBox');
 const resultBox = document.getElementById('resultBox');
 
-let quizJsonFile = "quiz2.json"; // het JSON bestand met de quizz
+let quizJsonFile = "quiz1.json"; // het JSON bestand met de quizz
+
 
 let counter = 0;
 let quiz;
