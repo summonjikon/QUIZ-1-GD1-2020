@@ -14,6 +14,15 @@ body{
   background-color: black;
   font: 1em sans-serif;
 }
+
+#quizTitle{
+  color: white;  
+}
+
+#quizWrapper {
+  color: blue; 
+}
+
 .wrapper{
   overflow: hidden;
   width: 80%;
@@ -75,3 +84,4 @@ body{
   animation-name: wrongAnswerAnimation;
   animation-duration: 4s;
 }
+

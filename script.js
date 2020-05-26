@@ -4,6 +4,7 @@ const myAnswer = document.getElementById('myAnswer');
 const quizWrapper = document.getElementById('quizWrapper');
 const questionBox = document.getElementById('questionBox');
 const resultBox = document.getElementById('resultBox');
+const quizTitle = document.getElementById('quizTitle')
 
 let quizJsonFile = "quiz1.json"; // het JSON bestand met de quizz
 
@@ -30,6 +31,9 @@ function initQuiz(){
   playerData.wrongAnswers = 0;
   playerName = ""; // toekomstige uitbreiding naam speler opvragen
   resultBox.style.display = "none"; // verberg de resultbox
+
+  quizTitle.innerHTML = quiz.quizMetaData.title; 
+
   prepareQuestions(); // start de quiz
 }
 
@@ -50,6 +54,7 @@ function prepareQuestions() {
     }
   } else {
     finishQuiz();
+    
   }
 }
 
@@ -69,6 +74,10 @@ function evaluate(evt) {
 function finishQuiz() {
   questionBox.style.display = "none";
   resultBox.style.display = "block";
+  quizWrapper.style.backgroundImage = ""; 
+  quizWrapper.background = "silver"; 
+  resultBox.innerHTML = "<h1>Your results:<br>correct answers: "+playerData. 
+  goodAnswers + "<br>wrong answers " +  playerData.wrongAnswers + "</h1>"; 
 }
 
 init(); // start it
